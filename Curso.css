@@ -1,0 +1,61 @@
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+#quadrado{
+	height: 400px;
+	width: 400px;
+	background: white;
+	border: 5px solid black;
+
+}
+html{
+	background-color: skyblue;
+}
+#amar{
+	height: 60px;
+	width: 200px;
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:salmon;
+	font-weight: bold;
+	margin: 2px 10px;
+}
+#azu{
+	height: 60px;
+	width: 200px;
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:salmon;
+	font-weight: bold;
+	margin: 2px 10px;
+}
+#cin{
+	height: 60px;
+	width: 200px;
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:salmon;
+	font-weight: bold;
+	margin: 2px 10px;
+}
+#ver{
+	height: 60px;
+	width: 200px;
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:salmon;
+	font-weight: bold;
+	margin: 2px 10px;
+}
+#verd, #ros, #lara, #rox{
+	height: 60px;
+	width: 200px;
+	border: 2px solid black;
+	font-size: 25px;
+	background-color:salmon;
+	font-weight: bold;
+	margin: 2px 10px;	
+}
